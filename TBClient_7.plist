@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://cp01-ocean-2177.epc.baidu.com:8723/job/Tieba_iOS_Trunk/7/artifact/Products/TBClient_7.ipa</string>
+					<string>http://cp01-ocean-2177.epc.baidu.com/job/Tieba_iOS_Trunk/7/artifact/Products/TBClient_7.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
